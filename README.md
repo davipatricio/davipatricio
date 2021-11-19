@@ -2,10 +2,10 @@
 
 📚 › Hi! I'm Davi Patricio!
 
-- 🔭 I’m currently working on [peachy.js](https://github.com/denkylabs/peachy.js) and [Denky Bot](https://denkybot.club/)
-- 🌱 I’m currently learning JavaScript and Python
+- 🔭 I’m currently working on [helly](https://github.com/davipatricio/helly) and [Denky Bot](https://denkybot.club/)
+- 🌱 I’m currently learning JavaScript, TypeScript and Python
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/davipatricio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davipatricio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davipatricio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
