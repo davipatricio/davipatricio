@@ -2,7 +2,7 @@
 
 📚 › Hi! I'm Davi Patricio!
 
-- 🔭 I’m currently working on [helly](https://github.com/davipatricio/helly) and [Denky Bot](https://denkybot.club/)
+- 🔭 I’m currently working on [helly](https://github.com/denkylabs/helly) and [Denky Bot](https://github.com/denkylabs/denkybot)
 - 🌱 I’m currently learning JavaScript, TypeScript and Python
 <div align="center">
   <a href="https://github.com/davipatricio">
