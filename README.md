@@ -3,7 +3,8 @@
 📚 › Hi! I'm Davi Patricio!
 
 - 🔭 I’m currently working on [helly](https://github.com/denkylabs/helly) and [Denky Bot](https://github.com/denkylabs/denkybot)
-- 🌱 I’m currently learning JavaScript, TypeScript and Python
+- 💻 I’m using JavaScript and TypeScript on most of my projects
+- 🌱 I’m currently learning C++ and Golang
 <div align="center">
   <a href="https://github.com/davipatricio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davipatricio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
