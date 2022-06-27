@@ -17,7 +17,7 @@
 
 ## 🔧 › Tools & Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp,go,,nodejs,mongodb,github,cloudflare,discord,bots,vscode,linux)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cpp,go,nodejs,mongodb,github,cloudflare,discord,bots,vscode,linux)](https://skillicons.dev) 
   
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
