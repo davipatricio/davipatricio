@@ -2,7 +2,8 @@
 
 📚 › Hi! I'm Davi "Veric" Patricio!
 
-- 🔭 I’m currently working on [helly](https://github.com/denkylabs/helly) and [Denky Bot](https://github.com/denkylabs/denkybot)
+- 🔭 I’m currently working on [helly](https://github.com/denkylabs/helly).
+- 🗓️ I was the creator, product manager and developer of [Denky Bot](https://github.com/denkylabs/denkybot) until September 2022.
 - 💻 I’m using Golang, JavaScript and TypeScript on most of my projects
 - 💬 You can contact me through Discord `Veric#2799` or e-mail `veric@denkylabs.com`
 
