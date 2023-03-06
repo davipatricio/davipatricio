@@ -1,13 +1,17 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Davi Patricio!
 
-📚 › Hi! I'm Davi "Veric" Patricio!
+I work as a front-end developer and as a back-end developer. I'm based in São Paulo, Brazil.
 
-- 🗓️ I was the creator, product manager and developer of [Denky Bot](https://github.com/denkylabs/denkybot) until September 2022 and I also wrote a Discord API Wrapper called [Helly](https://github.com/denkylabs/helly)
-- 💻 I’m using Next.js, Golang, JavaScript and TypeScript on most of my projects.
-- 🤓 Experience with: Astro, React.js, Next.js, Node.js, JavaScript, TypeScript, Go, Python, HTML, CSS
-- 💬 You can contact me through Discord `Veric#2799` or e-mail `davipatricio@pm.me`
+## Find me elsewhere 🌎
 
-## 🔧 › Tech stack:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davipatricio/)](https://www.linkedin.com/in/davipatricio/) 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,next,html,css,scss,go,nodejs,mongodb,github,cloudflare,discord,bots,vscode,linux)](https://skillicons.dev) 
+---
 
+### 🔧 › Front-End Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,next,solidjs,html,css,scss,styledcomponents,emotion)](https://skillicons.dev) 
+
+### 🔧 › Back-End Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,nodejs,express,cpp)](https://skillicons.dev) 
