@@ -15,3 +15,10 @@ I work as a front-end developer and as a back-end developer. I'm based in São P
 ### 🔧 › Back-End Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,nodejs,express,cpp)](https://skillicons.dev) 
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davipatricio&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davipatricio&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davipatricio&theme=monokai)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davipatricio&theme=monokai)
