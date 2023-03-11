@@ -10,11 +10,11 @@ I work as a front-end developer and as a back-end developer. I'm based in São P
 
 ### 🔧 › Front-End Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,next,solidjs,html,css,scss,styledcomponents,emotion)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,vue,nuxt,react,next,solidjs,html,css,scss,styledcomponents,emotion)](https://skillicons.dev) 
 
 ### 🔧 › Back-End Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,nodejs,express,cpp)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,nodejs,express)](https://skillicons.dev) 
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davipatricio&theme=monokai)
