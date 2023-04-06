@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Davi Patricio!
 
-I work as a front-end developer and as a back-end developer. I'm based in São Paulo, Brazil.
+I work as a front-end developer and as a back-end developer. I'm living in São Paulo, Brazil.
 
 ## Find me elsewhere 🌎
 
