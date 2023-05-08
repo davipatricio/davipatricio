@@ -10,7 +10,7 @@ I work as a front-end developer and as a back-end developer. I'm living in São 
 
 ### 🔧 › Front-End Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,vue,nuxt,react,next,solidjs,html,css,scss,styledcomponents,emotion)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,react,reactnative,next,solidjs,html,css,scss,styledcomponents,emotion)](https://skillicons.dev) 
 
 ### 🔧 › Back-End Stack
 
