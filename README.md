@@ -14,7 +14,7 @@ I work as a front-end developer and as a back-end developer. I'm living in São 
 
 ### 🔧 › Back-End Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,nodejs,express,prisma)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,docker,nodejs,express,prisma)](https://skillicons.dev) 
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davipatricio&theme=monokai)
